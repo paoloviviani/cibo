@@ -1,136 +1,135 @@
-﻿Name;address;Link;categoria;tags;da provare
-Pescheria Ristorante Gallina;Piazza della Repubblica, 14 10152 Turin Italy;https://g.page/PescheriaGallina?share;ristorante pesce;;
-La Pergola;Via dei Magoni 9, 05018 Orvieto, Province of Terni, Italy;https://g.page/PergolaOrvieto?share;ristorante;dehor;
-Smith's British;Via Virle, 19, 10138 Torino;https://g.page/Smithsbritish?share;ristorante;;
-La Cantina in Collina;Via Marconi 9, 15040 Cuccaro Monferrato, Province of Alessandria, Italy;https://goo.gl/maps/EnhuTdQosp86Cuxj7;ristorante;dehor;
-Agriturismo Ca' Brusa;Località Manzoni, 26 12065 Monforte d'Alba Italy;https://goo.gl/maps/brfJ9m6afiTmLLrn6;ristorante;dehor;
-Ramos Generales;Avenida Maipú, Ushuaia, Tierra del Fuego, Argentina;https://goo.gl/maps/gy7dDGfWzNqhFRNt7;caffè;;
-La Zaina Restaurant;Calle Gobernador Gregores 1057, El Calafate, 9405 Santa Cruz, Argentina;https://g.page/lazainarestaurant?share;ristorante;;
-Str.eat;Via Santa Giulia 21/F, 10124 Torino, Italy;https://goo.gl/maps/2zBAwVCfA5o6EbXU7;ristorante;;
-5esquinas trattoria;Habana 104 esq cuarteles Habana Vieja, L'Avana 10400;https://goo.gl/maps/2zBAwVCfA5o6EbXU7;brunch;caffè;
-Brooklyn Bowl;61 Wythe Ave, Brooklyn, NY  11249, United States;https://goo.gl/maps/FtShDy68syDAkA136;pub;burger;
-Mercato di Colón;Carrer de Jorge Juan, 19, 46004 València, Spagna;https://goo.gl/maps/ri5ugNpvgoMxJaDRA;caffè;"pasticceria;aperitivo";
+﻿Name;address;Link;categoria principale;tags;da provare
+Pescheria Ristorante Gallina;Piazza della Repubblica, 14 10152 Turin Italy;https://g.page/PescheriaGallina?share;ristorante;pesce,san salvario;
+La Pergola;Via dei Magoni 9, 05018 Orvieto, Province of Terni, Italy;https://g.page/PergolaOrvieto?share;ristorante;dehor,umbria;
+Smith's British;Via Virle, 19, 10138 Torino;https://g.page/Smithsbritish?share;ristorante;brunch,caro,san paolo,british;
+La Cantina in Collina;Via Marconi 9, 15040 Cuccaro Monferrato, Province of Alessandria, Italy;https://goo.gl/maps/EnhuTdQosp86Cuxj7;ristorante;dehor,monferrato,agriturismo;
+Agriturismo Ca' Brusa;Località Manzoni, 26 12065 Monforte d'Alba Italy;https://goo.gl/maps/brfJ9m6afiTmLLrn6;ristorante;dehor,langhe,agriturismo;
+Ramos Generales;Avenida Maipú, Ushuaia, Tierra del Fuego, Argentina;https://goo.gl/maps/gy7dDGfWzNqhFRNt7;caffè;ristorante,patagonia;
+La Zaina Restaurant;Calle Gobernador Gregores 1057, El Calafate, 9405 Santa Cruz, Argentina;https://g.page/lazainarestaurant?share;ristorante;carne,patagonia;
+Str.eat;Via Santa Giulia 21/F, 10124 Torino, Italy;https://goo.gl/maps/2zBAwVCfA5o6EbXU7;ristorante;fusion,vanchiglia,torino;
+5esquinas trattoria;Habana 104 esq cuarteles Habana Vieja, L'Avana 10400;https://goo.gl/maps/2zBAwVCfA5o6EbXU7;brunch;caffè,cuba;
+Brooklyn Bowl;61 Wythe Ave, Brooklyn, NY  11249, United States;https://goo.gl/maps/FtShDy68syDAkA136;pub;burger,live music;
+Mercato di Colón;Carrer de Jorge Juan, 19, 46004 València, Spagna;https://goo.gl/maps/ri5ugNpvgoMxJaDRA;caffè;pasticceria,aperitivo;
 Horchatería Santa Catalina;Plaza de Santa Catalina, 6, 46001 Valencia, València, Spain;https://goo.gl/maps/9w3rduk66YcooRcx8;caffè;pasticceria;
-Connery Pub;Via Frejus 123, 10139 Turin, Italy;https://g.page/Connery_Pub?share;pub;;
-Il Deposito Bistrot;Via Ercole Ricotti 1, 10153 Torino, Italy;https://goo.gl/maps/HPUiE7RkAsQnS8Pv7;ristorante;;
-Scannabue Caffè Restaurant;Largo Saluzzo, 25H, 10125 Torino;https://goo.gl/maps/Z5h2XpUZ8RXWU8HJA;ristorante;;
-La Gallina Scannata;Largo Saluzzo 25/F, 10125 Torino, Turin, Italy;https://goo.gl/maps/N1pWBsPh86GrL5q66;ristorante pesce;caro;
-Dogana Torino;Via Rocciamelone 12/A, 10143 Torino, Italy;https://goo.gl/maps/MNZrgvdBV2Qwp4Jm7;pub;;
-Buvette;42 Grove St, New York, NY  10014, United States;https://goo.gl/maps/tpLwRfyjdmsyhU4k8;ristorante;;
-Caffè borghese;Piazza Giuseppe Episcopo, 23, 73037 Poggiardo LE;https://goo.gl/maps/VpqRZPHJ2RwLSakx9;ristorante pesce;;
+Connery Pub;Via Frejus 123, 10139 Turin, Italy;https://g.page/Connery_Pub?share;pub;san paolo;
+Il Deposito Bistrot;Via Ercole Ricotti 1, 10153 Torino, Italy;https://goo.gl/maps/HPUiE7RkAsQnS8Pv7;ristorante;corso regina,ligure,pesce;
+Scannabue Caffè Restaurant;Largo Saluzzo, 25H, 10125 Torino;https://goo.gl/maps/Z5h2XpUZ8RXWU8HJA;ristorante;san salvario,piemontese;
+La Gallina Scannata;Largo Saluzzo 25/F, 10125 Torino, Turin, Italy;https://goo.gl/maps/N1pWBsPh86GrL5q66;ristorante;caro,pesce;
+Dogana Torino;Via Rocciamelone 12/A, 10143 Torino, Italy;https://goo.gl/maps/MNZrgvdBV2Qwp4Jm7;pub;campidoglio;
+Buvette;42 Grove St, New York, NY  10014, United States;https://goo.gl/maps/tpLwRfyjdmsyhU4k8;ristorante;francese,west village;
+Caffè borghese;Piazza Giuseppe Episcopo, 23, 73037 Poggiardo LE;https://goo.gl/maps/VpqRZPHJ2RwLSakx9;ristorante;salento,pesce;
 Spaans Dak;Maurits Noëstraat 2, 3050 Oud-Heverlee, Belgium;https://goo.gl/maps/JXHqF9d6HBjYmcjH9;ristorante;caro;
-Magazzino 52;Via Giolitti 52/A, 10123 Torino;https://goo.gl/maps/am4V52hJboVAQs359;ristorante;caro;
-Lentini's Corso Moncalieri;Corso Moncalieri, 205, 10133 Torino;https://goo.gl/maps/4Lbry52bCfEZVxgL8;ristorante;;
-Birilli;Strada Comunale Val S. Martino, 6, 10131 Torino;https://g.page/birilli?share;ristorante;;
-Taj Mahal;Via Nizza, 39bis, 10125 Torino;https://g.page/ristorante-indiano-taj-mahal?share;etnico;etnico;
-Curry Zone;Via Vincenzo Gioberti 4, 10128 Torino, Turin, Italy;https://goo.gl/maps/FkAwprtiSVmZXsRN6;ristorante;etnico;
-Greek Food Lab;Via Claudio Luigi Berthollet 6, 10125 Torino, Turin, Italy;https://www.google.com/maps/place/Greek+Food+Lab/@45.0634422,7.6730857,17z/data=!4m5!3m4!1s0x47886d420e08556d:0x7ba2ace78df4504a!8m2!3d45.0594171!4d7.67999;etnico;etnico;
-Greek Passion;Corso Francia, 201, 10139 Torino TO, Italia;https://g.page/ristorantegrecotorino?share;etnico;etnico;
-Revolucion;Corso Casale 194, 10132 Torino, Turin, Italy;https://g.page/comidacallejeramexicana?share;etnico;ristorante;
-Las Rosas cucina messicana dal 1993;Via Gian Francesco Bellezia, 15/f, 10122 Torino;https://goo.gl/maps/wTSgX1L6FdEsSCVV8;etnico;ristorante;
-Origami Japanese Restaurant;Piazza Vittorio Veneto 18/F, 10123 Torino, Turin, Italy;https://goo.gl/maps/UCBGdAspVnmMpQkF7;sushi-poke;dehor;
-Tokyo Zen;Via S. Massimo, 34, 10123 Torino;https://goo.gl/maps/WJFgKTLRcZEuZs4v9;sushi-poke;;
-Pacifik Poke Restaurant;Corso Monte Grappa, 33/D, 10145 Torino TO;https://goo.gl/maps/LGipBjKZpQBqhUDb6;sushi-poke;"etnico;asporto";
-Kirkuk Kaffè;Via Carlo Alberto 16, 10123 Turin, Italy;https://goo.gl/maps/vvr3nF5c6A6vZTS5A;etnico;etnico;
-Japs•cucinagiapponese;Corso Dante 53, 10126 Torino;https://goo.gl/maps/UaRHZh1Lije8W3ah8;sushi-poke;asporto;
-Alla Lettera;Via Giuseppe Mazzini, 12, Torino TO 10123;https://goo.gl/maps/jKXCfBiAHymd1Ka3A;pizza;dehor;
-Amici Miei;Corso Vittorio Emanuele II, 94, Torino;https://goo.gl/maps/aegcZtPXnJXNBSuP6;pizza;ristorante;
-Napples Pizzeria & Friggitoria;Via Sant'Anselmo, 36 10125 Turin Italy;https://goo.gl/maps/DkuMKtQBGZhzM7qu6;pizza;;
-50 Teglie;Corso Lecce, 9, 10145 Torino TO;https://goo.gl/maps/QabjWNzjf36quwXd9;pizza;asporto;
-Evo Pizza Napoletana 2.0;Corso Francia 96/F, 10143 Torino, Italy;https://g.page/Evopizzanapoletana?share;pizza;asporto;
-Olsen di Caldi Cinzia;Via Sant'Agostino 4/B, 10122 Torino, Turin, Italy;https://g.page/torteriaolsen?share;pasticceria;caffè;
-Samambaia;Via Madama Cristina 20, 10125 Torino, Turin, Italy;https://goo.gl/maps/uo2BTtaegwyZ4Ec58;pasticceria;"caffè;aperitivo";
-Caffe Lumiere;Corso Vittorio Emanuele II 35/C, 10125 Torino, Turin, Italy;https://goo.gl/maps/zmEtpCRkxRjyNgFj9;pasticceria;pasticceria;
-Torteria Berlicabarbis;Via Catania 10, 10153 Torino, Italy;https://goo.gl/maps/JJ3noYBku2ZWkwvB6;pasticceria;caffè;
-Torre Cremeria Bar;Corso Regio Parco 28, 10153 Torino, Turin, Italy;https://goo.gl/maps/pqYFeAYooCQZVKr37;caffè;pasticceria;
-MagazziniOz;Via Giolitti, 19/A, 10123 Torino;https://g.page/magazzinioz?share;ristorante;"brunch;caffè";
-Sapor Di Vino;Via Motta 5, 28010 Revislate, Province of Novara, Italy;https://g.page/ristorante-sapor-di-vino?share;ristorante;;
-Gattuso & Bianchi;Via Ercole Ferrario 8, 21013 Gallarate, Province of Varese, Italy;https://goo.gl/maps/pPpqFuYJ7rgTW8nR8;ristorante pesce;;
-Bottega Baretti;Via Sant' Anselmo, 28, 10125 Torino;https://g.page/BottegaBaretti?share;pizza;ristorante;
-Ristorante L'angolo di Parin;Via Bernardino Galliari 27, 10125 Torino, Turin, Italy;https://goo.gl/maps/p6Dy74mTnR5sNKge8;ristorante;aperitivo;
-Milanga Ristorante;Via Santa Croce 0/E, 10123 Torino;https://g.page/milangatorino?share;ristorante;;
-Osteria degli Ottoni;Via Giuseppe Pomba 6, 10123 Torino, Turin, Italy;https://goo.gl/maps/ETXdcLvxHWGbaju89;ristorante;;
-La Ville;Piazza Solferino, 12, 10121 Torino;https://g.page/lavilletorino?share;brunch;"pizza;ristorante";
-Sfashion cafè;Via Cesare Battisti, 13, 10123 Torino;https://g.page/sfashioncafe?share;ristorante;"pizza;aperitivo";
-Silos;Via Santa Giulia 21/A, 10124 Torino, Turin, Italy;https://goo.gl/maps/6Hp3PUJbyfbUrXF98;ristorante;;
-Bicyclette;Via Sant'Agostino 4D, 10122 Turin, Italy;https://goo.gl/maps/YrwWv7jgFbf3WjF8A;ristorante;pub;
-Pastis 2020;Piazza Emanuele Filiberto 9/B, 10122 Torino, Turin, Italy;https://g.page/pastis-torino?share;aperitivo;"ristorante;Cocktail";
-Trattoria Ala;Via Santa Giulia 24, 10124 Torino, Turin, Italy;https://goo.gl/maps/R7Y8xDUn67iQJTyB8;ristorante;;
-Le Papille;Via Principi d'Acaja, 37, 10138 Torino;https://goo.gl/maps/pRdwiKPZ5ezNhNyg6;ristorante;dehor;
-De Amicis;Corso Casale, 134, 10132 Torino;https://g.page/ristorante-de-amicis?share;ristorante;dehor;
-Salsedine;Via Gian Francesco Bellezia, 22, 10122 Torino;https://g.page/SalsedineTorino?share;ristorante pesce;caro;
-La Società dei Carbonari;Via Silvio Pellico, 7 bis/E, 10125 Torino;https://g.page/lasocietadeicarbonari?share;ristorante;;
-il Mercato Centrale Torino;Piazza della Repubblica 15, 10152 Turin, Italy;https://goo.gl/maps/PiDcTegW6i8ShG8SA;ristorante;"caffè;aperitivo";
+Magazzino 52;Via Giolitti 52/A, 10123 Torino;https://goo.gl/maps/am4V52hJboVAQs359;ristorante;caro,vini,centro;
+Lentini's Corso Moncalieri;Corso Moncalieri, 205, 10133 Torino;https://goo.gl/maps/4Lbry52bCfEZVxgL8;ristorante;cavoretto;
+Birilli;Strada Comunale Val S. Martino, 6, 10131 Torino;https://g.page/birilli?share;ristorante;collina;
+Taj Mahal;Via Nizza, 39bis, 10125 Torino;https://g.page/ristorante-indiano-taj-mahal?share;etnico;indiano,san salvario;
+Curry Zone;Via Vincenzo Gioberti 4, 10128 Torino, Turin, Italy;https://goo.gl/maps/FkAwprtiSVmZXsRN6;etnico;indiano,porta nuova,centro;
+Greek Food Lab;Via Claudio Luigi Berthollet 6, 10125 Torino, Turin, Italy;https://www.google.com/maps/place/Greek+Food+Lab/@45.0634422,7.6730857,17z/data=!4m5!3m4!1s0x47886d420e08556d:0x7ba2ace78df4504a!8m2!3d45.0594171!4d7.67999;etnico;greco,dehor,san salvario;
+Greek Passion;Corso Francia, 201, 10139 Torino TO, Italia;https://g.page/ristorantegrecotorino?share;etnico;greco,corso francia,parella;
+Revolucion;Corso Casale 194, 10132 Torino, Turin, Italy;https://g.page/comidacallejeramexicana?share;etnico;messicano,sassi,collina;
+Las Rosas cucina messicana dal 1993;Via Gian Francesco Bellezia, 15/f, 10122 Torino;https://goo.gl/maps/wTSgX1L6FdEsSCVV8;etnico;messicano,quadrilatero,centro;
+Origami Japanese Restaurant;Piazza Vittorio Veneto 18/F, 10123 Torino, Turin, Italy;https://goo.gl/maps/UCBGdAspVnmMpQkF7;sushi;dehor,centro,piazza vittorio,sushi;
+Tokyo Zen;Via S. Massimo, 34, 10123 Torino;https://goo.gl/maps/WJFgKTLRcZEuZs4v9;sushi-poke;centro,sushi;
+Pacifik Poke Restaurant;Corso Monte Grappa, 33/D, 10145 Torino TO;https://goo.gl/maps/LGipBjKZpQBqhUDb6;sushi-poke;etnico,asporto,poke;
+Kirkuk Kaffè;Via Carlo Alberto 16, 10123 Turin, Italy;https://goo.gl/maps/vvr3nF5c6A6vZTS5A;etnico;curdo,centro,dehor;
+Japs•cucinagiapponese;Corso Dante 53, 10126 Torino;https://goo.gl/maps/UaRHZh1Lije8W3ah8;sushi-poke;asporto,sushi;
+Alla Lettera;Via Giuseppe Mazzini, 12, Torino TO 10123;https://goo.gl/maps/jKXCfBiAHymd1Ka3A;pizza;dehor,centro;
+Amici Miei;Corso Vittorio Emanuele II, 94, Torino;https://goo.gl/maps/aegcZtPXnJXNBSuP6;pizza;ristorante,centro;
+Napples Pizzeria & Friggitoria;Via Sant'Anselmo, 36 10125 Turin Italy;https://goo.gl/maps/DkuMKtQBGZhzM7qu6;pizza;san salvario;
+50 Teglie;Corso Lecce, 9, 10145 Torino TO;https://goo.gl/maps/QabjWNzjf36quwXd9;pizza;asporto,campidoglio;
+Evo Pizza Napoletana 2.0;Corso Francia 96/F, 10143 Torino, Italy;https://g.page/Evopizzanapoletana?share;pizza;asporto,campidoglio;
+Olsen di Caldi Cinzia;Via Sant'Agostino 4/B, 10122 Torino, Turin, Italy;https://g.page/torteriaolsen?share;caffè;caffè,torte,quadrilatero,merenda;
+Samambaia;Via Madama Cristina 20, 10125 Torino, Turin, Italy;https://goo.gl/maps/uo2BTtaegwyZ4Ec58;caffè;caffè,aperitivo,merenda,san salavario;
+Caffe Lumiere;Corso Vittorio Emanuele II 35/C, 10125 Torino, Turin, Italy;https://goo.gl/maps/zmEtpCRkxRjyNgFj9;caffè;torte,merenda,porta nuova;
+Torteria Berlicabarbis;Via Catania 10, 10153 Torino, Italy;https://goo.gl/maps/JJ3noYBku2ZWkwvB6;pasticceria;caffè,torte,merenda,aurora;
+Torre Cremeria Bar;Corso Regio Parco 28, 10153 Torino, Turin, Italy;https://goo.gl/maps/pqYFeAYooCQZVKr37;caffè;granite;
+MagazziniOz;Via Giolitti, 19/A, 10123 Torino;https://g.page/magazzinioz?share;ristorante;brunch,caffè,centro;
+Sapor Di Vino;Via Motta 5, 28010 Revislate, Province of Novara, Italy;https://g.page/ristorante-sapor-di-vino?share;ristorante;piemontese,novara;
+Gattuso & Bianchi;Via Ercole Ferrario 8, 21013 Gallarate, Province of Varese, Italy;https://goo.gl/maps/pPpqFuYJ7rgTW8nR8;ristorante;pesce;
+Bottega Baretti;Via Sant' Anselmo, 28, 10125 Torino;https://g.page/BottegaBaretti?share;pizza;ristorante,san salvario,dehor;
+Ristorante L'angolo di Parin;Via Bernardino Galliari 27, 10125 Torino, Turin, Italy;https://goo.gl/maps/p6Dy74mTnR5sNKge8;ristorante;aperitivo,san salvario,piemontese,dehor;
+Milanga Ristorante;Via Santa Croce 0/E, 10123 Torino;https://g.page/milangatorino?share;ristorante;centro,cotolette;
+Osteria degli Ottoni;Via Giuseppe Pomba 6, 10123 Torino, Turin, Italy;https://goo.gl/maps/ETXdcLvxHWGbaju89;ristorante;piemontese,centro;
+La Ville;Piazza Solferino, 12, 10121 Torino;https://g.page/lavilletorino?share;ristorante;pizza,ristorante,centro,brunch,dehor;
+Sfashion cafè;Via Cesare Battisti, 13, 10123 Torino;https://g.page/sfashioncafe?share;ristorante;pizza,aperitivo,dehor,centro;
+Silos;Via Santa Giulia 21/A, 10124 Torino, Turin, Italy;https://goo.gl/maps/6Hp3PUJbyfbUrXF98;ristorante;caro,vanchiglia;
+Bicyclette;Via Sant'Agostino 4D, 10122 Turin, Italy;https://goo.gl/maps/YrwWv7jgFbf3WjF8A;ristorante;pub,crepes,centro;
+Pastis 2020;Piazza Emanuele Filiberto 9/B, 10122 Torino, Turin, Italy;https://g.page/pastis-torino?share;aperitivo;ristorante,Cocktail,quandrilatero,dehor;
+Trattoria Ala;Via Santa Giulia 24, 10124 Torino, Turin, Italy;https://goo.gl/maps/R7Y8xDUn67iQJTyB8;ristorante;toscano,vanchiglia,regionale;
+Le Papille;Via Principi d'Acaja, 37, 10138 Torino;https://goo.gl/maps/pRdwiKPZ5ezNhNyg6;ristorante;dehor,centro,porta susa;
+De Amicis;Corso Casale, 134, 10132 Torino;https://g.page/ristorante-de-amicis?share;ristorante;dehor,collina,lungo po,romano,regionale;
+Salsedine;Via Gian Francesco Bellezia, 22, 10122 Torino;https://g.page/SalsedineTorino?share;ristorante;caro,pesce,quadrilatero;
+La Società dei Carbonari;Via Silvio Pellico, 7 bis/E, 10125 Torino;https://g.page/lasocietadeicarbonari?share;ristorante;piemontese,san salvario;
+il Mercato Centrale Torino;Piazza della Repubblica 15, 10152 Turin, Italy;https://goo.gl/maps/PiDcTegW6i8ShG8SA;ristorante;caffè,aperitivo,porta palazzo;
 Adonis Creperie;Via Belfiore, 48, 10125 Torino, Turin, Italy;https://g.page/adonis-creperie-bistro-gourmet?share;brunch;ristorante;
 Sweet Lab;Via Giuseppe Mazzini 31/L, 10123 Torino, Italy;https://g.page/sweetlabtorino?share;brunch;caffè;
-Teapot;Via Silvio Pellico 18, 10125 Torino, Turin, Italy;https://goo.gl/maps/HgfZjhh8WrQMxAEn6;brunch;;
-CasaGoffi;Viale Suor Giovanna Francesca Michelotti, 52, 10123 Torino;https://goo.gl/maps/1Le2uH9Q4Y4N96av6;brunch;;
-PAI Bikery;Via Cagliari 18/D, 10153 Torino, Turin, Italy;https://goo.gl/maps/KJtaqVSK2FyNukhL9;brunch;caffè;
-Barbiturici;Via Santa Giulia 21 bis/B, 10124 Torino, Italy;https://goo.gl/maps/CJ92NNPCHGWQkgxP8;brunch;caffè;
-Cocotte Milano;Via Benvenuto Cellini, 1, 20129 Milano;https://goo.gl/maps/4L9BAQypHEZTJjF9A;brunch;ristorante;
-Barney's;Via Giambattista Bogino, 9, 10123 Torino;https://g.page/barney-s-srl?share;brunch;caffè;
-Smile Tree;Piazza della Consolata 9/C, 10122 Torino, Turin, Italy;https://goo.gl/maps/BqGXvds9tj6ze28g7;aperitivo;Cocktail;
-Casa Manitu;Via Virle, 19 10138 Turin Italy;https://goo.gl/maps/juAqhiiZ7k7ZC93Q9;aperitivo;Cocktail;
-Lanificio San Salvatore;Via Sant'Anselmo 30, 10125 Torino, Turin, Italy;https://goo.gl/maps/hbiy9GLyzV9Y6Gtu7;brunch;Cocktail;
-SIX Nations;Corso Vittorio Emanuele II 28, 10123 Torino, Turin, Italy;https://goo.gl/maps/PUbK9hppNueZBABJ6;pub;burger;
-Oro Birra;Corso Regina Margherita, 97, 10124 Torino;https://g.page/pubtorino?share;pub;burger;
-Piper Pub;Via del Ridotto 22, 10147 Torino, Turin, Italy;https://goo.gl/maps/4D3EQtxvLnX88HLG7;pub;"ristorante;burger";
-manhattan pub;Via Errico Giachino 46, 10149 Torino, Turin, Italy;https://goo.gl/maps/ArTJ2ZbsTbEHVFxF8;pub;ristorante;
-Petit Baladin;Via Saluzzo, 21, 10125 Torino;https://goo.gl/maps/UasRMJjvvL9WSHjKA;pub;burger;
-Open Baladin Torino;Piazzale Valdo Fusi, 10123 Torino, Italia;https://goo.gl/maps/UasRMJjvvL9WSHjKA;pub;"ristorante;burger";
-Rock Burger;Via Roero di Cortanze 2, 10124 Turin, Italy;https://g.page/rockburgertorino?share;burger;;
-The Duke of Wellington;Via Sebastiano Caboto, 26, 10129 Torino;https://goo.gl/maps/Ce4La9zP3164TtHJ8;pub;burger;
-Birrificio di Anzola;Via Fratelli Borghini 62, 28877 Anzola d'Ossola, Province of Verbano-Cusio-Ossola, Italy;https://goo.gl/maps/cB2xKPHPeqo3ehzo6;pub;ristorante;
-Edit;Via Francesco Cigna 10155 Turin Italy;https://g.page/EDIT-Torino-OpenShareEnjoy?share;ristorante;"brunch;pub";
-Flower Burger;Via Antonio Bertola, 29, 10122 Torino;https://goo.gl/maps/ogc7kXqQiUkdvv969;burger;vegan;
-ISOLA;Via Goito, 15, 10125 Torino TO;https://goo.gl/maps/hCH1cdmAfimaQP4x5;brunch;;
-Taverna La Cialoma;Piazza Regina Margherita, 23, 96018 Marzamemi SR;https://goo.gl/maps/52gtyTjnMCCxuyDz6;ristorante pesce;;
-Caffè al Ciclope;Piazza Vittorio Emanuele, 96018 Pachino SR;https://goo.gl/maps/H8UTkYYmx5pnDitf9;caffè;pasticceria;
-Pasticceria Costarelli;P.za Duomo, 21, 95024 Acireale CT;https://goo.gl/maps/L329d3S4LLDGyqPn7;pasticceria;;
-Pasticceria Artale;Via Saverio Landolina, 32, 96100 Siracusa SR;https://g.page/PasticceraArtale?share;pasticceria;;
-Il re dei girgenti;Via Panoramica Valle dei Templi, 51, 92100 Agrigento AG;https://goo.gl/maps/FECVQF5Vew5K9CvH9;ristorante;;
-Ca' Mais;Via Catania, 25, 10153 Torino TO;https://g.page/camaistorino?share;ristorante;;
-Brace Pura;Via Roero di Cortanze, 2, 10124 Torino TO;https://g.page/Bracepura?share;griglia;caro;
+Teapot;Via Silvio Pellico 18, 10125 Torino, Turin, Italy;https://goo.gl/maps/HgfZjhh8WrQMxAEn6;brunch;san salvario,caffè;
+CasaGoffi;Viale Suor Giovanna Francesca Michelotti, 52, 10123 Torino;https://goo.gl/maps/1Le2uH9Q4Y4N96av6;brunch;dehor,lungo po,collina;
+PAI Bikery;Via Cagliari 18/D, 10153 Torino, Turin, Italy;https://goo.gl/maps/KJtaqVSK2FyNukhL9;brunch;caffè,aurora;
+Barbiturici;Via Santa Giulia 21 bis/B, 10124 Torino, Italy;https://goo.gl/maps/CJ92NNPCHGWQkgxP8;brunch;caffè,vanchiglia;
+Cocotte Milano;Via Benvenuto Cellini, 1, 20129 Milano;https://goo.gl/maps/4L9BAQypHEZTJjF9A;brunch;ristorante,milano,brunch;
+Barney's;Via Giambattista Bogino, 9, 10123 Torino;https://g.page/barney-s-srl?share;brunch;caffè,centro;
+Smile Tree;Piazza della Consolata 9/C, 10122 Torino, Turin, Italy;https://goo.gl/maps/BqGXvds9tj6ze28g7;aperitivo;Cocktail,quadrilatero;
+Casa Manitu;Via Virle, 19 10138 Turin Italy;https://goo.gl/maps/juAqhiiZ7k7ZC93Q9;aperitivo;Cocktail,crocetta;
+Lanificio San Salvatore;Via Sant'Anselmo 30, 10125 Torino, Turin, Italy;https://goo.gl/maps/hbiy9GLyzV9Y6Gtu7;brunch;Cocktail,san salvario;
+SIX Nations;Corso Vittorio Emanuele II 28, 10123 Torino, Turin, Italy;https://goo.gl/maps/PUbK9hppNueZBABJ6;pub;burger,centro;
+Oro Birra;Corso Regina Margherita, 97, 10124 Torino;https://g.page/pubtorino?share;pub;burger,porta palazzo,corso regina;
+Piper Pub;Via del Ridotto 22, 10147 Torino, Turin, Italy;https://goo.gl/maps/4D3EQtxvLnX88HLG7;pub;ristorante,burger,borgo vittoria,grezzo;
+manhattan pub;Via Errico Giachino 46, 10149 Torino, Turin, Italy;https://goo.gl/maps/ArTJ2ZbsTbEHVFxF8;pub;ristorante,borgo vittoria,grezzo;
+Petit Baladin;Via Saluzzo, 21, 10125 Torino;https://goo.gl/maps/UasRMJjvvL9WSHjKA;pub;burger,san salvario;
+Open Baladin Torino;Piazzale Valdo Fusi, 10123 Torino, Italia;https://goo.gl/maps/UasRMJjvvL9WSHjKA;pub;ristorante,burger,centro;
+Rock Burger;Via Roero di Cortanze 2, 10124 Turin, Italy;https://g.page/rockburgertorino?share;burger;centro;
+The Duke of Wellington;Via Sebastiano Caboto, 26, 10129 Torino;https://goo.gl/maps/Ce4La9zP3164TtHJ8;pub;burger,crocetta;
+Birrificio di Anzola;Via Fratelli Borghini 62, 28877 Anzola d'Ossola, Province of Verbano-Cusio-Ossola, Italy;https://goo.gl/maps/cB2xKPHPeqo3ehzo6;pub;ristorante,val d'ossola;
+Edit;Via Francesco Cigna 10155 Turin Italy;https://g.page/EDIT-Torino-OpenShareEnjoy?share;ristorante;brunch,pub,barriera di milano;
+Flower Burger;Via Antonio Bertola, 29, 10122 Torino;https://goo.gl/maps/ogc7kXqQiUkdvv969;burger;vegan,centro;
+ISOLA;Via Goito, 15, 10125 Torino TO;https://goo.gl/maps/hCH1cdmAfimaQP4x5;brunch;san salvario;
+Taverna La Cialoma;Piazza Regina Margherita, 23, 96018 Marzamemi SR;https://goo.gl/maps/52gtyTjnMCCxuyDz6;ristorante;pesce,regionale,siciliano,dehor;
+Caffè al Ciclope;Piazza Vittorio Emanuele, 96018 Pachino SR;https://goo.gl/maps/H8UTkYYmx5pnDitf9;caffè;pasticceria,granita,colazione;
+Pasticceria Costarelli;P.za Duomo, 21, 95024 Acireale CT;https://goo.gl/maps/L329d3S4LLDGyqPn7;pasticceria;granita,caffè;
+Pasticceria Artale;Via Saverio Landolina, 32, 96100 Siracusa SR;https://g.page/PasticceraArtale?share;pasticceria;granita,caffè;
+Il re dei girgenti;Via Panoramica Valle dei Templi, 51, 92100 Agrigento AG;https://goo.gl/maps/FECVQF5Vew5K9CvH9;ristorante;caro,pesce,siciliano,regionale;
+Ca' Mais;Via Catania, 25, 10153 Torino TO;https://g.page/camaistorino?share;ristorante;tapas,aurora,dehor;
+Brace Pura;Via Roero di Cortanze, 2, 10124 Torino TO;https://g.page/Bracepura?share;ristorante;griglia,carne,caro,centro;
 Albergo Ristorante San Giors;Via Borgo Dora, 3/A, 10152 Torino TO;https://g.page/SanGiors?share;ristorante;piemontese;
-Misterfish Pescherie con Cucina;Corso Taranto, 28/D, Torino TO 10154;;ristorante pesce;;da provare
-Tuorlo Vino e Cucina;Via San Domenico, 12/b, 10122 Torino;;ristorante;caro;
-Ristorante Indiano Dawat;Via Milano, 8/H, 10122 Torino;;etnico;;da provare
-PANK RISTORANTE;Via Rodi, 4, 10122 Torino;;ristorante;;da provare
-Wasabi;Corso Francesco Ferrucci 72, 10138 Torino, Turin, Italy;;sushi-poke;;da provare
-Razzo;Via Andrea Doria, 17, 10123 Torino;;ristorante;;da provare
-Les Deux;Via San Massimo 30, 10123 Torino, Italy;;ristorante;;da provare
-Casa Fiore;Via della Rocca 39, 10123 Torino, Turin, Italy;;ristorante;;da provare
-Matsurika di Tokyo;Via San Massimo 36, 10123 Torino, Italy;;etnico;;da provare
-Dollì Cucina al Centro;Via Ormea, 6C, 10125 Torino;;ristorante;;da provare
-Al Campidoglio Cucina Romana;Via Rocciamelone, 17, 10143 Torino TO;;ristorante;;da provare
-Ristorante Ratatui;Via San Rocchetto 34, 10143 Torino, Turin, Italy;;ristorante;;da provare
-Da Zero Torino;Via San Domenico, 33, 10122 Torino;;pizza;;
-Ruràl Pizza;Via Mantova 27, 10153 Torino, Turin, Italy;;pizza;;da provare
-Caffe-Vini Emilio Ranzini;Via Porta Palatina 9, 10122 Torino, Turin, Italy;;aperitivo;;da provare
-Osteria Barcellona;Via Pier Dionigi Pinelli, 46, 10144 Torino TO;;ristorante;;da provare
-Dulcis in Fundo;Via Gianfranco Zuretti, 55, 20125 Milano;;brunch;;da provare
-Deus Ex Machina;Via Genova Giovanni Thaon di Revel 3, 20159 Milan, Milano, Italy;;ristorante;;
-L'ancora;Via della Rocca, 22 b, 10123 Torino TO;;ristorante pesce;;da provare
-The Mad Dog;Via Maria Vittoria, 35A 10123 Turin Italy;;cocktail;;da provare
-Miyabi;Via Ferdinando Bonsignore 8, 10131 Torino, Italy;;sushi-poke;;da provare
-La Limonaia;Via Mario Ponzio 10, 10141 Torino, Turin, Italy;;ristorante;;da provare
-Osteria Antiche Sere;Via Cenischia 9, 10139 Torino, Turin, Italy;;ristorante;;da provare
-Petronilla;Corso Verona 38/E, 10153 Torino, Italy;;brunch;;da provare
-La Fucina;Via Madama Cristina, 86, 10126 Torino TO;;ristorante;;da provare
-Il Chioschetto;Via Giovanni Carlo Cavalli, 25, 10138 Torino TO;;aperitivo;;da provare
-Cucina Giapponese Takoyaki Minamoto Torino;Via Giambattista Bogino, 17/D, 10123 Torino TO;;etnico;;da provare
-Affumicatoio - Pastrami - Pulled Pork - Prodotti Affumicati Torino;Via Claudio Luigi Berthollet, 33/a, 10125 Torino TO;;griglia;;da provare
-La Santa Wine & Spirits Torino;Via Stampatori, 19/h, 10122 Torino TO;;cocktail;;da provare
-Du Cesari;Corso Regina Margherita, 252, 10144 Torino TO;;;;da provare
-Hamerica’s;Via Belfiore, 24, 10125 Torino TO;;hamburger ;;da provare
-Poldo;Via Dante Di Nanni 97, 10141 Torino TO;;Pizza;Padellino;da provare
-kensho;Via dei Mercanti, 16, 10122 Torino TO;;fusion;;da provare
-casa fedora;Via Asti, 23, 10131 Torino TO;;brunch;;da provare
-cafe bloom;Via Catania, 21/A, 10153 Torino TO;;brunch;;
-tauer bakery;Via Madama Cristina, 22, 10125 Torino TO;;brunch;;da provare
-noor;Via Santa Giulia, 48d, 10124 Torino TO;;brunch;;da provare
-avocuddle;Galleria Umberto I, n° 25, 10122 Torino TO;;brunch;;da provare
-formula mago;Via Cavour, 12, 10123 Torino TO;;brunch;cocktail;da provare
-Da Varsa – La capanna dei nonni;Via Guastalla, 20, 10124 Torino TO;;ristorante;;da provare
-Hostaria dai Musi;Piazza Michele Ferrero, 4/D, 12051 Alba CN;;ristorante pesce;;da provare
-cantina comunale catiglione falleto;Via Camillo Benso Conte di Cavour, 24, 12060 Castiglione Falletto CN;;ristorante;;da provare
+Tuorlo Vino e Cucina;Via San Domenico, 12/b, 10122 Torino;https://goo.gl/maps/VQfwSytQVd8ig3x47;ristorante;caro;
+Ristorante Indiano Dawat;Via Milano, 8/H, 10122 Torino;https://goo.gl/maps/KtZaTw1aGNTXXjBV9;etnico;indiano;da provare
+PANK RISTORANTE;Via Rodi, 4, 10122 Torino;https://goo.gl/maps/pEb75Syzm3k1JMtV7;ristorante;quadrilatero,centro,caro;da provare
+Wasabi;Corso Francesco Ferrucci 72, 10138 Torino, Turin, Italy;https://goo.gl/maps/UKWWyZ4ezojrWZB9A;sushi-poke;crocetta,giapponese;da provare
+Razzo;Via Andrea Doria, 17, 10123 Torino;https://goo.gl/maps/vefFvLkkz22NjvEX7;ristorante;caro,centro;da provare
+Les Deux;Via San Massimo 30, 10123 Torino, Italy;https://goo.gl/maps/jCbqiCeYFi3EAgS57;ristorante;aperitivo,vino,francese,centro;da provare
+Casa Fiore;Via della Rocca 39, 10123 Torino, Turin, Italy;https://goo.gl/maps/ZmxYHaVfbAESQrmK8;ristorante;piemontese,centro;da provare
+Matsurika di Tokyo;Via San Massimo 36, 10123 Torino, Italy;https://g.page/matsurika?share;etnico;street food,giapponese,centro;da provare
+Dollì Cucina al Centro;Via Ormea, 6C, 10125 Torino;https://g.page/DolliCucinaAlCentro?share;ristorante;san salvario;da provare
+Al Campidoglio Cucina Romana;Via Rocciamelone, 17, 10143 Torino TO;https://goo.gl/maps/g4jxg9RRhEc4FKfH9;ristorante;campidoglio;da provare
+Ristorante Ratatui;Via San Rocchetto 34, 10143 Torino, Turin, Italy;https://g.page/ristoranteratatui?share;ristorante;campidoglio,dehor;da provare
+Da Zero Torino;Via San Domenico, 33, 10122 Torino;https://goo.gl/maps/jnXpLzBqVHm5Kkkg9;pizza;centro;
+Ruràl Pizza;Via Mantova 27, 10153 Torino, Turin, Italy;https://goo.gl/maps/oHhYzWCjer3U4Bad8;pizza;aurora;da provare
+Caffe-Vini Emilio Ranzini;Via Porta Palatina 9, 10122 Torino, Turin, Italy;https://goo.gl/maps/CJZrQ6j26wRZnNYu9;aperitivo;quadrilatero;da provare
+Osteria Barcellona;Via Pier Dionigi Pinelli, 46, 10144 Torino TO;https://g.page/osteria-barcellona?share;ristorante;campidoglio,pesce,siciliano,regionale;da provare
+Dulcis in Fundo;Via Gianfranco Zuretti, 55, 20125 Milano;https://g.page/DulcisZuretti55?share;brunch;milano;da provare
+Deus Cafe Isola;Via Genova Giovanni Thaon di Revel 3, 20159 Milan, Milano, Italy;https://goo.gl/maps/EA49Q9pVGkDyfKp49;brunch;ristorante,burger,milano;
+L'ancora;Via della Rocca, 22 b, 10123 Torino TO;https://goo.gl/maps/f1qPPGyiP71iurMK6;ristorante;pesce,caro,centro;da provare
+The Mad Dog;Via Maria Vittoria, 35A 10123 Turin Italy;https://goo.gl/maps/NYv9aZF3rRYmVrNC7;cocktail;centro,speakeasy;da provare
+Miyabi;Via Ferdinando Bonsignore 8, 10131 Torino, Italy;https://goo.gl/maps/rVQ1gEkrNk2hdFwJ9;sushi-poke;caro,giapponese;da provare
+La Limonaia;Via Mario Ponzio 10, 10141 Torino, Turin, Italy;https://goo.gl/maps/Xjx2AGbf6t9agZmS7;ristorante;caro,parella,dehor;da provare
+Osteria Antiche Sere;Via Cenischia 9, 10139 Torino, Turin, Italy;https://goo.gl/maps/3cbiCpuC7FTZMfSYA;ristorante;osteria,parella;da provare
+Petronilla;Corso Verona 38/E, 10153 Torino, Italy;https://goo.gl/maps/aeSfK2SUaHuB5BrX8;brunch;aurora;da provare
+La Fucina;Via Madama Cristina, 86, 10126 Torino TO;https://goo.gl/maps/9jWssD5jHzzmz4pW6;ristorante;san salvario;da provare
+Il Chioschetto;Via Giovanni Carlo Cavalli, 25, 10138 Torino TO;https://goo.gl/maps/SdTmFjvttJXsUVm76;aperitivo;cit turin,dehor;da provare
+Cucina Giapponese Takoyaki Minamoto Torino;Via Giambattista Bogino, 17/D, 10123 Torino TO;https://g.page/TakoyakiMinamotoTorino?share;etnico;giapponese,street food,centro;da provare
+La Santa Wine & Spirits Torino;Via Stampatori, 19/h, 10122 Torino TO;https://g.page/lasantatorino?share;cocktail;quadrilatero;da provare
+Du Cesari;Corso Regina Margherita, 252, 10144 Torino TO;https://g.page/DuCesari?share;ristorante;romano,corso regina,regionale;da provare
+Hamerica’s;Via Belfiore, 24, 10125 Torino TO;https://goo.gl/maps/xtcdVxGT4g1uUHeK6;burger;san salvario;da provare
+Poldo;Via Dante Di Nanni 97, 10141 Torino TO;https://goo.gl/maps/9MZwVnjrQmihiv8x7;Pizza;Padellino;da provare
+kensho;Via dei Mercanti, 16, 10122 Torino TO;https://g.page/kenshorestaurant?share;fusion;giapponese,caro,quadrilatero;da provare
+casa fedora;Via Asti, 23, 10131 Torino TO;https://g.page/casafedoratorino?share;brunch;collina;da provare
+cafe bloom;Via Catania, 21/A, 10153 Torino TO;https://goo.gl/maps/5vCAWwGJPRibxSSx6;brunch;aurora,dehor;
+tauer bakery;Via Madama Cristina, 22, 10125 Torino TO;https://goo.gl/maps/BWDoXha4vMP9zFUs8;brunch;san salvario;da provare
+noor;Via Santa Giulia, 48d, 10124 Torino TO;https://goo.gl/maps/c7X3WPZzGyHqn8oNA;brunch;vanchiglia;da provare
+avocuddle;Galleria Umberto I, n° 25, 10122 Torino TO;https://g.page/AvocuddleTorino?share;brunch;quadrilatero;da provare
+formula mago;Via Cavour, 12, 10123 Torino TO;https://goo.gl/maps/bb8oJ75NehNy1B4J6;brunch;cocktail,centro;da provare
+Da Varsa – La capanna dei nonni;Via Guastalla, 20, 10124 Torino TO;https://goo.gl/maps/Qv9zNE6818TFdmdY6;ristorante;vanchiglia;da provare
+Hostaria dai Musi;Piazza Michele Ferrero, 4/D, 12051 Alba CN;https://goo.gl/maps/uLCu8kBByaif9HzK9;ristorante;pesce,caro,langhe;da provare
+cantina comunale catiglione falleto;Via Camillo Benso Conte di Cavour, 24, 12060 Castiglione Falletto CN;https://goo.gl/maps/mX4pJ26kg6FWNbGG7;ristorante;piemontese,langhe;da provare
+Banco di sicilia;Via Arnaldo da Brescia, 23, 10134 Torino TO;https://g.page/ristorantebancodisicilia?share;ristorante;siciliano,corso unione,regionale;
