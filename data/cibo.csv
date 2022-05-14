@@ -24,7 +24,7 @@ Lentini's Corso Moncalieri;Corso Moncalieri, 205, 10133 Torino;https://goo.gl/ma
 Birilli;Strada Comunale Val S. Martino, 6, 10131 Torino;https://g.page/birilli?share;ristorante;collina;
 Taj Mahal;Via Nizza, 39bis, 10125 Torino;https://g.page/ristorante-indiano-taj-mahal?share;etnico;indiano,san salvario;
 Curry Zone;Via Vincenzo Gioberti 4, 10128 Torino, Turin, Italy;https://goo.gl/maps/FkAwprtiSVmZXsRN6;etnico;indiano,porta nuova,centro;
-Greek Food Lab;Via Claudio Luigi Berthollet 6, 10125 Torino, Turin, Italy;https://www.google.com/maps/place/Greek+Food+Lab/@45.0634422,7.6730857,17z/data=!4m5!3m4!1s0x47886d420e08556d:0x7ba2ace78df4504a!8m2!3d45.0594171!4d7.67999;etnico;greco,dehor,san salvario;
+Greek Food Lab;Via Claudio Luigi Berthollet 6, 10125 Torino, Turin, Italy;https://goo.gl/maps/WEtyEv3xhEdeTREf6;etnico;greco,dehor,san salvario;
 Greek Passion;Corso Francia, 201, 10139 Torino TO, Italia;https://g.page/ristorantegrecotorino?share;etnico;greco,corso francia,parella;
 Revolucion;Corso Casale 194, 10132 Torino, Turin, Italy;https://g.page/comidacallejeramexicana?share;etnico;messicano,sassi,collina;
 Las Rosas cucina messicana dal 1993;Via Gian Francesco Bellezia, 15/f, 10122 Torino;https://goo.gl/maps/wTSgX1L6FdEsSCVV8;etnico;messicano,quadrilatero,centro;
@@ -93,7 +93,7 @@ Ca' Mais;Via Catania, 25, 10153 Torino TO;https://g.page/camaistorino?share;rist
 Brace Pura;Via Roero di Cortanze, 2, 10124 Torino TO;https://g.page/Bracepura?share;ristorante;griglia,carne,caro,centro;
 Albergo Ristorante San Giors;Via Borgo Dora, 3/A, 10152 Torino TO;https://g.page/SanGiors?share;ristorante;piemontese;
 Tuorlo Vino e Cucina;Via San Domenico, 12/b, 10122 Torino;https://goo.gl/maps/VQfwSytQVd8ig3x47;ristorante;caro;
-Ristorante Indiano Dawat;Via Milano, 8/H, 10122 Torino;https://goo.gl/maps/KtZaTw1aGNTXXjBV9;etnico;indiano;da provare
+Ristorante Indiano Dawat;Via Milano, 8/H, 10122 Torino;https://goo.gl/maps/KtZaTw1aGNTXXjBV9;etnico;indiano;
 PANK RISTORANTE;Via Rodi, 4, 10122 Torino;https://goo.gl/maps/pEb75Syzm3k1JMtV7;ristorante;quadrilatero,centro,caro;da provare
 Wasabi;Corso Francesco Ferrucci 72, 10138 Torino, Turin, Italy;https://goo.gl/maps/UKWWyZ4ezojrWZB9A;sushi-poke;crocetta,giapponese;da provare
 Razzo;Via Andrea Doria, 17, 10123 Torino;https://goo.gl/maps/vefFvLkkz22NjvEX7;ristorante;caro,centro;da provare
@@ -117,7 +117,7 @@ Osteria Antiche Sere;Via Cenischia 9, 10139 Torino, Turin, Italy;https://goo.gl/
 Petronilla;Corso Verona 38/E, 10153 Torino, Italy;https://goo.gl/maps/aeSfK2SUaHuB5BrX8;brunch;aurora;da provare
 La Fucina;Via Madama Cristina, 86, 10126 Torino TO;https://goo.gl/maps/9jWssD5jHzzmz4pW6;ristorante;san salvario;da provare
 Il Chioschetto;Via Giovanni Carlo Cavalli, 25, 10138 Torino TO;https://goo.gl/maps/SdTmFjvttJXsUVm76;aperitivo;cit turin,dehor;da provare
-Cucina Giapponese Takoyaki Minamoto Torino;Via Giambattista Bogino, 17/D, 10123 Torino TO;https://g.page/TakoyakiMinamotoTorino?share;etnico;giapponese,street food,centro;da provare
+Cucina Giapponese Takoyaki Minamoto Torino;Via Giambattista Bogino, 17/D, 10123 Torino TO;https://g.page/TakoyakiMinamotoTorino?share;etnico;giapponese,street food,centro;
 La Santa Wine & Spirits Torino;Via Stampatori, 19/h, 10122 Torino TO;https://g.page/lasantatorino?share;cocktail;quadrilatero;da provare
 Du Cesari;Corso Regina Margherita, 252, 10144 Torino TO;https://g.page/DuCesari?share;ristorante;romano,corso regina,regionale;da provare
 Hamerica’s;Via Belfiore, 24, 10125 Torino TO;https://goo.gl/maps/xtcdVxGT4g1uUHeK6;burger;san salvario;da provare
@@ -135,3 +135,12 @@ cantina comunale catiglione falleto;Via Camillo Benso Conte di Cavour, 24, 12060
 Banco di sicilia;Via Arnaldo da Brescia, 23, 10134 Torino TO;https://g.page/ristorantebancodisicilia?share;ristorante;siciliano,corso unione,regionale;
 Oinos;Via della Rocca, 39/g, 10123 Torino TO;https://goo.gl/maps/zBdnpnAFasg8VzCy6;ristorante;pesce,caro,sushi,siciliano,centro;da provare
 Bastimento;Via della Rocca, 10/b, 10123 Torino TO;https://g.page/ristorantebastimento?share;ristorante;pesce,caro,centro;da provare
+Viet Caffè;Via Federico Campana, 32, 10125 Torino TO;https://goo.gl/maps/XVHnGv4pQdZza3Y5A;caffè;dehor,etnico,san salvario;da provare
+La ferramenta del gusto emiliano;Via Giuseppe Giacosa, 10A-Bis, 10125 Torino TO;https://g.page/laferramentadelgustoemiliano?share;ristorante;regionale,emiliano,san salvario;da provare
+Bel Andi;Via Belfiore, 16 bis, 10125 Torino TO;https://goo.gl/maps/ckxcknBizUfNC7mo7;ristorante;regionale,ligure,pesce,san salvario,dehor;da provare
+Rockitchen;Via Giuseppe Baretti, 20/a, 10125 Torino TO;https://goo.gl/maps/nccywmqxQujsS6Rt6;ristorante;pub,birra,san salvario;da provare
+Faki San Salvario;Via Sant'Anselmo, 38, 10125 Torino TO;https://goo.gl/maps/i5vczr59yiyXhzZ29;ristorante;cocktail,san salvario,aperitivo;da provare
+D.ONE;Via Giuseppe Baretti, 15, 10125 Torino TO;https://g.page/donetorino?share;aperitivo;san salvario;da provare
+La Coccinella;Via Provinciale A, 5, 12050 Serravalle Langhe CN;https://goo.gl/maps/M7WxCjNGybP8TrUT8;ristorante;langhe,piemontese;da provare
+Trattoria in Piazza;Piazza Castello, 4, 12050 Montelupo Albese CN;https://goo.gl/maps/e275t74ZiYzFFEHNA;ristorante;langhe,piemontese;da provare
+skjuma;Via Santa Chiara, 45h, 10122 Torino TO;https://g.page/skjuma?share;pub;birra,quadrilatero,burger;da provare
