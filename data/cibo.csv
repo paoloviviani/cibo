@@ -95,14 +95,14 @@ Albergo Ristorante San Giors;Via Borgo Dora, 3/A, 10152 Torino TO;https://g.page
 Tuorlo Vino e Cucina;Via San Domenico, 12/b, 10122 Torino;https://goo.gl/maps/VQfwSytQVd8ig3x47;ristorante;caro;
 Ristorante Indiano Dawat;Via Milano, 8/H, 10122 Torino;https://goo.gl/maps/KtZaTw1aGNTXXjBV9;etnico;indiano;
 PANK RISTORANTE;Via Rodi, 4, 10122 Torino;https://goo.gl/maps/pEb75Syzm3k1JMtV7;ristorante;quadrilatero,centro,caro;da provare
-Wasabi;Corso Francesco Ferrucci 72, 10138 Torino, Turin, Italy;https://goo.gl/maps/UKWWyZ4ezojrWZB9A;sushi-poke;crocetta,giapponese;da provare
+Wasabi;Corso Francesco Ferrucci 72, 10138 Torino, Turin, Italy;https://goo.gl/maps/UKWWyZ4ezojrWZB9A;sushi-poke;crocetta,giapponese;
 Razzo;Via Andrea Doria, 17, 10123 Torino;https://goo.gl/maps/vefFvLkkz22NjvEX7;ristorante;caro,centro;da provare
 Les Deux;Via San Massimo 30, 10123 Torino, Italy;https://goo.gl/maps/jCbqiCeYFi3EAgS57;ristorante;aperitivo,vino,francese,centro;da provare
 Casa Fiore;Via della Rocca 39, 10123 Torino, Turin, Italy;https://goo.gl/maps/ZmxYHaVfbAESQrmK8;ristorante;piemontese,centro;da provare
 Matsurika di Tokyo;Via San Massimo 36, 10123 Torino, Italy;https://g.page/matsurika?share;etnico;street food,giapponese,centro;da provare
 Dollì Cucina al Centro;Via Ormea, 6C, 10125 Torino;https://g.page/DolliCucinaAlCentro?share;ristorante;san salvario;da provare
 Al Campidoglio Cucina Romana;Via Rocciamelone, 17, 10143 Torino TO;https://goo.gl/maps/g4jxg9RRhEc4FKfH9;ristorante;campidoglio;da provare
-Ristorante Ratatui;Via San Rocchetto 34, 10143 Torino, Turin, Italy;https://g.page/ristoranteratatui?share;ristorante;campidoglio,dehor;da provare
+Ristorante Ratatui;Via San Rocchetto 34, 10143 Torino, Turin, Italy;https://g.page/ristoranteratatui?share;ristorante;campidoglio,dehor;
 Da Zero Torino;Via San Domenico, 33, 10122 Torino;https://goo.gl/maps/jnXpLzBqVHm5Kkkg9;pizza;centro;
 Ruràl Pizza;Via Mantova 27, 10153 Torino, Turin, Italy;https://goo.gl/maps/oHhYzWCjer3U4Bad8;pizza;aurora;da provare
 Caffe-Vini Emilio Ranzini;Via Porta Palatina 9, 10122 Torino, Turin, Italy;https://goo.gl/maps/CJZrQ6j26wRZnNYu9;aperitivo;quadrilatero;da provare
@@ -125,11 +125,11 @@ Poldo;Via Dante Di Nanni 97, 10141 Torino TO;https://goo.gl/maps/9MZwVnjrQmihiv8
 kensho;Via dei Mercanti, 16, 10122 Torino TO;https://g.page/kenshorestaurant?share;fusion;giapponese,caro,quadrilatero;da provare
 casa fedora;Via Asti, 23, 10131 Torino TO;https://g.page/casafedoratorino?share;brunch;collina;da provare
 cafe bloom;Via Catania, 21/A, 10153 Torino TO;https://goo.gl/maps/5vCAWwGJPRibxSSx6;brunch;aurora,dehor;
-tauer bakery;Via Madama Cristina, 22, 10125 Torino TO;https://goo.gl/maps/BWDoXha4vMP9zFUs8;brunch;san salvario;da provare
+tauer bakery;Via Madama Cristina, 22, 10125 Torino TO;https://goo.gl/maps/BWDoXha4vMP9zFUs8;brunch;san salvario;
 noor;Via Santa Giulia, 48d, 10124 Torino TO;https://goo.gl/maps/c7X3WPZzGyHqn8oNA;brunch;vanchiglia;da provare
-avocuddle;Galleria Umberto I, n° 25, 10122 Torino TO;https://g.page/AvocuddleTorino?share;brunch;quadrilatero;da provare
+avocuddle;Galleria Umberto I, n° 25, 10122 Torino TO;https://g.page/AvocuddleTorino?share;brunch;quadrilatero;
 formula mago;Via Cavour, 12, 10123 Torino TO;https://goo.gl/maps/bb8oJ75NehNy1B4J6;brunch;cocktail,centro;da provare
-Da Varsa – La capanna dei nonni;Via Guastalla, 20, 10124 Torino TO;https://goo.gl/maps/Qv9zNE6818TFdmdY6;ristorante;vanchiglia;da provare
+Da Varsa – La capanna dei nonni;Via Guastalla, 20, 10124 Torino TO;https://goo.gl/maps/Qv9zNE6818TFdmdY6;ristorante;vanchiglia;
 Hostaria dai Musi;Piazza Michele Ferrero, 4/D, 12051 Alba CN;https://goo.gl/maps/uLCu8kBByaif9HzK9;ristorante;pesce,caro,langhe;da provare
 cantina comunale catiglione falleto;Via Camillo Benso Conte di Cavour, 24, 12060 Castiglione Falletto CN;https://goo.gl/maps/mX4pJ26kg6FWNbGG7;ristorante;piemontese,langhe;da provare
 Banco di sicilia;Via Arnaldo da Brescia, 23, 10134 Torino TO;https://g.page/ristorantebancodisicilia?share;ristorante;siciliano,corso unione,regionale;
@@ -143,4 +143,7 @@ Faki San Salvario;Via Sant'Anselmo, 38, 10125 Torino TO;https://goo.gl/maps/i5vc
 D.ONE;Via Giuseppe Baretti, 15, 10125 Torino TO;https://g.page/donetorino?share;aperitivo;san salvario;da provare
 La Coccinella;Via Provinciale A, 5, 12050 Serravalle Langhe CN;https://goo.gl/maps/M7WxCjNGybP8TrUT8;ristorante;langhe,piemontese;da provare
 Trattoria in Piazza;Piazza Castello, 4, 12050 Montelupo Albese CN;https://goo.gl/maps/e275t74ZiYzFFEHNA;ristorante;langhe,piemontese;da provare
-skjuma;Via Santa Chiara, 45h, 10122 Torino TO;https://g.page/skjuma?share;pub;birra,quadrilatero,burger;da provare
+skjuma;Via Santa Chiara, 45h, 10122 Torino TO;https://g.page/skjuma?share;pub;birra,quadrilatero,dehor;
+Keens;72 W 36th St., New York, NY 10018, Stati Uniti;https://goo.gl/maps/VtVDHXhwgwgcbkLC6;ristorante;carne,caro;
+mamasita;Corso Carlo e Nello Rosselli, 1, 10128 Torino TO;https://goo.gl/maps/RL1gtnBFeYRUaYESA;etnico;messicano,argentino,dehor;
+Cubique;Via Saluzzo, 86b, 10126 Torino TO;https://g.page/ristorante-cubique?share;ristorante;piemontese;da provare
